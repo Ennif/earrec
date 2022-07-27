@@ -55,13 +55,13 @@ Name of the configuration file must have name `conf.yml`
   
 ### Doc to configuration file
 
-**generator** - is used for setting a generator of Tensorflow library
-  **batch_size** - the size of batch to be produced by the generator (default: 50)
-  **image_height** - the image height at which the input data should be read (default: 257px)
-  **image_width** - the image width at which the input data should be read (default: 161px)
-  **validation_split** - distribution of the validation set of training samples 
-**training** - sets the number of training epochs. Other parameters are calculated during the training process automatically from the dataset.
-**epochs** - number of model training epochs (default: 150)
+**generator** - is used for setting a generator of Tensorflow library <br>
+  **batch_size** - the size of batch to be produced by the generator (default: 50) <br>
+  **image_height** - the image height at which the input data should be read (default: 257px) <br>
+  **image_width** - the image width at which the input data should be read (default: 161px) <br>
+  **validation_split** - distribution of the validation set of training samples  <br>
+**training** - sets the number of training epochs. Other parameters are calculated during the training process automatically from the dataset. <br>
+**epochs** - number of model training epochs (default: 150) <br>
 
 ## Program usability
 
