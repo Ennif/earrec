@@ -1,0 +1,8 @@
+generator:
+  batch_size: 50
+  image_height: 257
+  image_width: 161
+  validation_split: 0.2
+
+training:
+  epochs: 150
