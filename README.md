@@ -1,13 +1,13 @@
 # Person recognition based on the ear
 
+Tool for training ResNeXt101 deep neural network architecture to identify person based on the ear.
+
 ## Abstract
 
 The aim of this thesis is to confirm the hypotheses that a neural network trained on the
-left ears will be able to recognize subjects by their right ear and vice versa. The study
-and the analysis of machine learning tools will be the cornerstone for understanding and
-further advancement of the thesis. Another task is to find a suitable model to prove or
-disprove the hypotheses. Finally, experimentation and analysis of the results obtained will
-determine confirmation of the hypothesis on the selected model.
+left ears will be able to recognize subjects by their right ear and vice versa.
+Another task was to find a suitable model to prove or disprove the hypotheses.
+Finally, experimentation and analysis of the results obtained confirmed the hypothesis on the selected model on 91%.
 
 ## Used libraries
 
